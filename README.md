@@ -1,4 +1,2 @@
 # Game
-Game Repository
-Dice
-Guess the number
+Game Repository:Dice , Guess the number .
