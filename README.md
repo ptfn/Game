@@ -1,2 +1,4 @@
-# Game
-Game Repository : Dice, Guess the number, Guess the cub.
+## Game
+* Dice
+* Guess the number
+* Guess the cub.
