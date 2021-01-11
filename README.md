@@ -1,4 +1,5 @@
 ## Game
 * Dice
 * Guess the number
-* Guess the cub.
+* Guess the cub
+* Rock Paper Scissors
